@@ -1,3 +1,5 @@
+https://steamcommunity.com/sharedfiles/filedetails/?id=3024748896
+
 This mod lets you customize how many times a WX-78 circuit/module can be used before it breaks.
 The default usage limit in Don't Starve Together is 4.
 
